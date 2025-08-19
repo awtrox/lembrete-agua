@@ -14,10 +14,12 @@ Esse projeto foi criado pensado no uso próprio e para uso daqueles que só quer
 ## 🛠 Tecnologias Utilizadas
 Python
 
+---
 ## 📚 O que aprendi
 **Interface acessível:** Utilizar o tkInter para criar janelas que facilitam a interação do usuário com o programa
 **Threading:** Utilizar threads para evitar congelamento completo do programa com a função sleep
 
+---
 ## ⚙️ Instalação
 
 Passos para instalar e rodar o projeto:
